@@ -1,0 +1,33 @@
+
+Scan Started Mon Aug 13 22:07:32 2018
+-------------------------------------------------------------------------------
+
+WARNING: Can't open file C:\hiberfil.sys: Permission denied
+C:\Mega\Documents\1B14~1\Marketing Events\DAQ and Control Seminar- Q1 2017\4. Automated Visual Inspection & Structural Tests.pptx [Autosaved].pptx: Doc.Exploit.CVE_2018_5028-6605129-0 FOUND
+C:\Mega\PortableApps\Ages\Data\closedpw.exe: Win.Trojan.Onlinegames-1 FOUND
+WARNING: Can't open file C:\Mega\PortableApps\TeamViewerPortable\App\teamviewer\rolloutfile.tv13: Permission denied
+C:\Mega\PortableApps\ThunderbirdPortable\Data\profile\ImapMail\imap.gmail-1.com\[Gmail].sbd\&C44LsgvNC7ILvg- &C4ULngvNC5oLsgvBC64LzQ-: Heuristics.Phishing.Email.SpoofedDomain FOUND
+C:\Mega\PortableApps\ThunderbirdPortable\Data\profile\ImapMail\imap.gmail-1.com\[Gmail].sbd\&C64LwQuVC80LlQu,C68Lrgu+C6kLtQvI-: Heuristics.Phishing.Email.SpoofedDomain FOUND
+C:\Mega\PortableApps\ThunderbirdPortable\Data\profile\ImapMail\imap.mail.yahoo.com\Citi: Heuristics.Phishing.Email.SpoofedDomain FOUND
+C:\Mega\PortableApps\ThunderbirdPortable\Data\profile\ImapMail\imap.mail.yahoo.com\Etrade: Heuristics.Phishing.Email.SpoofedDomain FOUND
+C:\Mega\PortableApps\ThunderbirdPortable\Data\profile\ImapMail\imap.mail.yahoo.com\INBOX: Heuristics.Phishing.Email.SpoofedDomain FOUND
+WARNING: Can't open file C:\pagefile.sys: Permission denied
+WARNING: Can't open file C:\Program Files\Cisco\AMP\tmp\25A8AF.tmpscan: Permission denied
+WARNING: Can't open file C:\Program Files\Cisco\AMP\tmp\B1C8AF.tmpscan: Permission denied
+WARNING: Can't open file C:\Program Files (x86)\Dell\CommandUpdate\InvColPC.exe: Permission denied
+
+Scan Started Thu Aug 16 07:57:17 2018
+-------------------------------------------------------------------------------
+
+
+Scan Started Sat Aug 18 08:34:59 2018
+-------------------------------------------------------------------------------
+
+
+Scan Started Sat Aug 18 08:35:33 2018
+-------------------------------------------------------------------------------
+
+
+Scan Started Sat Oct 12 17:23:40 2019
+-------------------------------------------------------------------------------
+
